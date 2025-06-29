@@ -36,5 +36,4 @@
 _You can replace these with your actual repos:_
 
 ```markdown
-- 🔧 [Frappe-Customizations](https://github.com/SujeetKumar-1/Frappe-Customizations): Custom modules and ERP extensions built using Frappe and Python.
-- 🌐 [MyPortfolio](https://github.com/SujeetKumar-1/MyPortfolio): A responsive portfolio website built with HTML, CSS, JavaScript & Bootstrap.
+- 🌐 [MyPortfolio](https://github.com/SujeetKumar-1/): A responsive portfolio website built with HTML, CSS, JavaScript & Bootstrap.
